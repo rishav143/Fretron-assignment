@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.List;
 import java.util.ArrayList;
 
-public class Main {
+public class _3_killAndFindHome {
     static int[] dr = {1, 0, -1, 0};
     static int[] dc = {0, 1, 0, -1};
     static int pathCount = 1;
